@@ -1,0 +1,14 @@
+{
+    "ante_build": [
+        "kurl.hooking.ante_build_hook"
+    ],
+    "ante_release": [
+        "kurl.hooking.ante_release_hook"
+    ],
+    "post_build": [
+        "kurl.hooking.post_build_hook"
+    ],
+    "post_release": [
+        "kurl.hooking.post_release_hook"
+    ]
+}
