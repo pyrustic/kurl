@@ -5,7 +5,7 @@
 This project is part of the [Pyrustic Ecosystem](https://pyrustic.github.io).
 
 <!-- Quick Links -->
-[Reference](https://github.com/pyrustic/kurl/tree/master/docs/reference#readme)
+[Installation](#installation) | [Reference](https://github.com/pyrustic/kurl/tree/master/docs/reference#readme)
 
 
 `Kurl` is a library to fetch resources with an implementation of conditional request and a smart responses caching system. It is used by [Hubstore](https://github.com/pyrustic/hubstore) and more projects in the [Pyrustic Open Ecosystem](https://pyrustic.github.io).
@@ -34,3 +34,9 @@ print(response.json)
 ```
 
 Read the [reference](https://github.com/pyrustic/kurl/tree/master/docs/reference#readme) !
+
+## Installation
+
+```bash
+pip install kurl
+```
